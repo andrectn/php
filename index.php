@@ -1,4 +1,6 @@
 <?php
+<<<<<<< HEAD
 echo "olá mundo 456"
-    echo "Hello World"
+    echo "Hello World 123"
+
 ?>
